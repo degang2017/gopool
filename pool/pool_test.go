@@ -1,7 +1,7 @@
 package pool_test
 
 import (
-	"github.com/gopool/pool"
+	"github.com/degang2017/gopool/pool"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"time"

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gopool/pool"
+	"github.com/degang2017/gopool/pool"
 	"time"
 )
 
